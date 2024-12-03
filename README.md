@@ -27,7 +27,7 @@ To run the code, execute the following command, making sure to adjust the paths 
 If you need to resume your training, simply include the `--resume_training True` argument in your command.
 
 # Download Trained Weights
-Trained model weights can be downloaded from [this link](https://sites.google.com/view/calgary-campinas-dataset/home)
+Trained model weights can be downloaded from [this link](https://uofc-my.sharepoint.com/:u:/g/personal/abbas_omidi_ucalgary_ca/Ebac-KAsT8ZBvjB7qHdSnSsBF2-a-Hfu2gKDd5DD9JhPeg?e=FY0rt8), or email the author to receive them.
 
 Feel free to reach out if you have any questions or need assistance.
 
